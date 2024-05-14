@@ -33,5 +33,35 @@
     "city": "Tokyo",
     "country": "Japan",
     "imageId": "tokyo"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spanyol",
+    "imageId": "barcelona"
+  },
+  {
+    "city": "Madrid",
+    "country": "Spanyol",
+    "imageId": "madrid"
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "imageId": "newdelhi"
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "imageId": "osaka"
+  },
+  {
+    "city": "Soeul",
+    "country": "Korea Selatan",
+    "imageId": "soeul"
+  },
+  {
+    "city": "Washington",
+    "country": "Amerika Serikat",
+    "imageId": "washington"
   }
 ]
