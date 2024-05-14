@@ -35,6 +35,7 @@
     "imageId": "tokyo"
   },
   {
+<<<<<<< HEAD
     "city": "Barcelona",
     "country": "Spanyol",
     "imageId": "barcelona"
@@ -63,5 +64,10 @@
     "city": "Washington",
     "country": "Amerika Serikat",
     "imageId": "washington"
+=======
+    "city": "Newyork",
+    "country": "Amerika Serikat",
+    "imageId": "newyork"
+>>>>>>> 772cc1b503f173a17f1a6cb22eab1a3707982f00
   }
 ]
