@@ -1,0 +1,37 @@
+[
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "imageId": "bangkok"
+  },
+  {
+    "city": "Beijing",
+    "country": "Tiongkok",
+    "imageId": "beijing"
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "imageId": "jakarta"
+  },
+  {
+    "city": "London",
+    "country": "England",
+    "imageId": "london"
+  },
+  {
+    "city": "Paris",
+    "country": "Prancis",
+    "imageId": "paris"
+  },
+  {
+    "city": "Singapura",
+    "country": "Singapura",
+    "imageId": "singapura"
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "imageId": "tokyo"
+  }
+]
