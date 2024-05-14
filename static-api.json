@@ -33,5 +33,10 @@
     "city": "Tokyo",
     "country": "Japan",
     "imageId": "tokyo"
+  },
+  {
+    "city": "Newyork",
+    "country": "Amerika Serikat",
+    "imageId": "newyork"
   }
 ]
